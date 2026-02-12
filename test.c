@@ -1,35 +1,13 @@
 #include <stdio.h>
-int main()
-
-{
-    int num[10]
-    for(int i = 0; i < 10; i++)
-
-{
-    printf("%d\n");
-}
-
-{
-    int num [20]
-    for(int i = 0; i < 20; i++)
+void loo_p()
+    int num[85];
+    
     {
-        printf("%d\n, i");
-    }
-}
-{
-    int num [40]
-    for(int i = 0; i < 40;)
-    {
-        printf("%d\n, i")
-    }
-    {
-        int num [303]
-        for(int i = 0; i < 303;)
-        {
-            printf("%d\n, i")
-        }
-    }
-}
-}#include <stdio.h>
-int main()
+    for(int i = 0; i < 85; i++ )
 
+}
+void leng_th()
+int arr[20][20];
+{
+    for()
+}
