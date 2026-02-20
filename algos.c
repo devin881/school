@@ -1,4 +1,5 @@
-#include <stdio.h>
+\'
+/#include <stdio.h>
 
 int main()
 {
@@ -10,5 +11,6 @@ int main()
 
     for(int i = 0; i < 100; i++) {
         printf("index %d: %d\n", i, num[i]);
-    }
 }
+}
+    // }
